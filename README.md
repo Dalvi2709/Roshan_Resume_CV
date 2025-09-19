@@ -20,7 +20,6 @@ This repository contains my professional resumes and curriculum vitae, highlight
 - LinkedIn: https://www.linkedin.com/in/dalvi-roshan/  
 - GitHub: https://github.com/Dalvi2709
 - Instagram : https://www.instagram.com/roshan_dalvi_2709/  
-
 ---
 
 Feel free to check out my documents and connect with me for opportunities or collaborations.
