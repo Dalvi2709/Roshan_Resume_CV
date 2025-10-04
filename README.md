@@ -13,7 +13,7 @@ This repository contains my professional resumes and curriculum vitae, highlight
 
 ## Contents
 - `Resume.pdf` – Concise overview of my skills, education, and experience.  
-- `CV.pdf` – Detailed academic and professional background.  
+- `CV.pdf`– Detailed academic and professional background.  
 
 ## Connect with Me
 - Portfolio: [My Portfolio](https://roshan-dalvi.vercel.app)  
